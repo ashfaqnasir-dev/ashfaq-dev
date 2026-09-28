@@ -56,8 +56,8 @@ Passionate about Cloud Infrastructure, DevOps, and AI on Azure.
 
 ### 📫 Connect With Me
 
-- **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/your-profile)
-- **Email:** your-email@example.com
+- **LinkedIn:** www.linkedin.com/in/cscloudservices
+- **Email:** ashfaq.nasir@communicationsquare.com
 
 ---
 
